@@ -1,0 +1,10 @@
+Order_ID,Customer_Name,City,Product,Quantity,Price,Payment_Method
+101,rahul,mumbai,laptop,2.0,50000.0,cash
+102,priya,delhi,mouse,1.0,500.0,upi
+103,amit,mumbai,laptop,2.0,50000.0,cash
+104,priya,delhi,mouse,1.0,4750.0,card
+105,neha,delhi,keyboard,3.0,1500.0,card
+106,rahul,mumbai,laptop,2.0,50000.0,cash
+107,vikash,kolkata,monitor,5.0,8000.0,upi
+108,anjali,chennai,keyboard,2.0,1200.0,card
+109,rahul,chennai,keyboard,2.0,1500.0,card
